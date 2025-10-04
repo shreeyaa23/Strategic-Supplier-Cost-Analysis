@@ -77,7 +77,7 @@ These inefficiencies led to missed negotiation opportunities and suboptimal cost
 
 ---
 
-## 👩 **Author**
+##  **Author**
 **Shreya Mishra**  
 *Business Intelligence & Data Analyst*  
 📍 Richmond, VA  
