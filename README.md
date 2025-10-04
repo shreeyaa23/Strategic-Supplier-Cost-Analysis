@@ -1,97 +1,87 @@
-# Strategic-Supplier-Cost-Analysis
-📊 Overview
+# 🧾 **Strategic Supplier & Cost Analysis — Sky Harvest Industries**
 
-This project focuses on analyzing procurement and supplier spending to enhance cost efficiency and supplier management for Sky Harvest Industries.
-Using Power BI, Tableau, and Excel, the project identifies key cost drivers, underutilized suppliers, and commodity-based expenditure patterns, enabling data-driven decision-making for strategic sourcing.
+##  **Overview**
+This project focuses on analyzing **procurement and supplier spending** to enhance cost efficiency and supplier management for *Sky Harvest Industries*.  
+Using **Power BI, Tableau, and Excel**, the project identifies **key cost drivers, underutilized suppliers, and commodity-based expenditure patterns**, enabling data-driven decision-making for strategic sourcing and negotiation.
 
-🎯 Objectives
+---
 
-Improve visibility into supplier and commodity-level spending.
+##  **Objectives**
+- Improve **visibility** into supplier and commodity-level spending.  
+- Identify **top 10 suppliers** and their contribution to total procurement costs.  
+- Optimize **resource allocation** across departments and cost centers.  
+- Develop **interactive BI dashboards** to monitor procurement KPIs and supplier performance.
 
-Identify top 10 suppliers and their contribution to total procurement costs.
+---
 
-Optimize resource allocation across departments and cost centers.
-
-Develop BI dashboards to monitor procurement KPIs and supplier performance.
-
-🧩 Business Problem
-
-The company faced:
-
-Rising procurement costs due to limited metric visibility.
-
-Uneven supplier utilization across business units.
-
-Lack of consolidated tracking for hardware maintenance and IT infrastructure spend.
+##  **Business Problem**
+The company faced challenges due to:
+- Rising procurement costs from **limited metric visibility**.  
+- **Uneven supplier utilization** across departments.  
+- Lack of consolidated tracking for **hardware maintenance and IT infrastructure spend**.  
 
 These inefficiencies led to missed negotiation opportunities and suboptimal cost control.
 
-💡 Analytical Approach
+---
 
-Data Cleaning & Preparation
+##  **Analytical Approach**
 
-Combined procurement, commodity, and supplier datasets using Excel Power Query.
+### **1️⃣ Data Cleaning & Preparation**
+- Combined procurement, commodity, and supplier datasets using **Excel Power Query**.  
+- Normalized supplier names and standardized commodity codes.  
+- Built relational tables for department-wise and item-wise spend analysis.  
 
-Normalized supplier names and standardized commodity codes.
+### **2️⃣ Exploratory Data Analysis (EDA)**
+- Visualized spending by **supplier, commodity, and department** in **Tableau** and **Power BI**.  
+- Applied **Pareto analysis (80/20 rule)** to identify suppliers driving the majority of costs.  
+- Measured **supplier concentration index** to assess diversification.  
 
-Built relational tables for department-wise and item-wise spend analysis.
+### **3️⃣ Visualization & Insights**
+- Created **interactive BI dashboards** highlighting:  
+  - Top suppliers and spend trends  
+  - Department-wise cost distribution  
+  - Commodity category performance  
+  - Supplier performance metrics  
+- Found **IBM, Oracle, and Dell** as high-spend vendors with consolidation potential.  
 
-Exploratory Analysis
+### **4️⃣ Optimization Strategy**
+- Recommended **supplier consolidation** for hardware and networking.  
+- Introduced **alternate vendors** for software and cloud services.  
+- Estimated **15–20% cost savings** through renegotiation and diversification.  
 
-Used Tableau / Power BI for spend visualization by supplier, commodity, and department.
+---
 
-Implemented Pareto analysis (80/20 rule) to identify suppliers driving 80% of costs.
+##  **Tools & Technologies**
 
-Measured supplier concentration index to evaluate diversification.
+| Tool | Purpose |
+|------|----------|
+| **Power BI / Tableau** | Data visualization and trend dashboards |
+| **Excel (Power Query, Pivot Tables)** | Data cleaning, joining, and preprocessing |
+| **Python (Pandas, Matplotlib)** | Optional for advanced data analysis |
+| **SQL (JOIN, GROUP BY, RANK)** | Supplier spend aggregation and analysis |
 
-Insights & Visualization
+---
 
-Created interactive BI dashboards showing:
+##  **Key Results**
+- Identified that **3 suppliers accounted for 60%** of total procurement spend.  
+- Revealed **22% potential cost reduction** via supplier consolidation and contract optimization.  
+- Improved procurement visibility by **30%** through centralized BI dashboards.  
+- Delivered actionable recommendations for **supplier diversification and negotiation leverage**.
 
-Top suppliers & spend trends
+---
 
-Department-wise cost breakdown
+##  **Recommendations**
+- **Diversify suppliers** in strategic sourcing and IT infrastructure.  
+- **Negotiate better terms** with high-spend vendors (IBM, Oracle, Dell).  
+- **Automate monthly BI reporting** for real-time spend tracking and forecasting.  
 
-Commodity category distribution
+---
 
-Supplier performance metrics
+## 👩 **Author**
+**Shreya Mishra**  
+*Business Intelligence & Data Analyst*  
+📍 Richmond, VA  
+🎓 MBA (Business Analytics) | 🎯 Power BI | Tableau | SQL | Excel  
 
-Highlighted high-spend vendors (IBM, Oracle, Dell) for negotiation leverage.
 
-Optimization Strategy
-
-Proposed supplier consolidation for hardware & networking categories.
-
-Recommended introducing alternate suppliers for software/cloud services.
-
-Suggested 15–20% cost savings potential through renegotiation and diversification.
-
-⚙️ Tools & Technologies
-Tool	Purpose
-Power BI / Tableau	Data visualization and trend dashboards
-Excel (Power Query, Pivot Tables)	Data cleaning, joining, and preprocessing
-Python (Pandas, Matplotlib) (optional add-on)	Statistical and comparative analysis
-SQL (JOIN, GROUP BY, RANK)	Data aggregation and supplier spend queries
-📈 Key Results
-
-Identified that 3 suppliers accounted for 60% of total spend, enabling targeted negotiations.
-
-Found 22% potential cost reduction by consolidating maintenance contracts.
-
-Improved procurement visibility across departments by 30% through BI dashboards.
-
-Developed data-driven recommendations for supplier diversification and cost efficiency.
-
-🧭 Recommendations
-
-Diversify suppliers in strategic sourcing and IT infrastructure.
-
-Negotiate better terms with high-spend vendors (IBM, Oracle, Dell).
-
-Automate monthly BI reporting to monitor spend dynamics in real time.
-
-🪶 Author
-
-Shreya Mishra
-Business Intelligence & Data Analyst
-📍 Richmond, VA | 🎓 MBA (Business Analytics) | 📊 Power BI | Tableau | SQL | Excel
+---
