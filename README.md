@@ -1,4 +1,4 @@
-# 🧾 **Strategic Supplier & Cost Analysis — Sky Harvest Industries**
+#  **Strategic Supplier & Cost Analysis — Sky Harvest Industries**
 
 ##  **Overview**
 This project focuses on analyzing **procurement and supplier spending** to enhance cost efficiency and supplier management for *Sky Harvest Industries*.  
@@ -80,8 +80,8 @@ These inefficiencies led to missed negotiation opportunities and suboptimal cost
 ##  **Author**
 **Shreya Mishra**  
 *Business Intelligence & Data Analyst*  
-📍 Richmond, VA  
-🎓 MBA (Business Analytics) | 🎯 Power BI | Tableau | SQL | Excel  
+ Richmond, VA  
+ MBA (Business Analytics) | 🎯 Power BI | Tableau | SQL | Excel  
 
 
 ---
